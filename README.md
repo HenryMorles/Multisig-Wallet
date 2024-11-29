@@ -12,7 +12,6 @@ It ensures that a group of owners can collectively manage funds and approve tran
 - **Multi-Signature Security**: Transactions require a minimum number of approvals (M-of-N model).
 - **Owner Management**: Owners can be added or removed via voting.
 - **ERC20 Token Support**: Create transactions for token transfers.
-- **Emergency Pause**: Ability to pause all transactions.
 - **Flexible Execution**: Transactions are automatically executed once enough approvals are collected.
 - **Gas Efficiency**: Optimized for minimal gas usage.
 
@@ -31,7 +30,7 @@ It ensures that a group of owners can collectively manage funds and approve tran
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HenryMorles/Multisig-Wallet/
    cd Multisig_Wallet
    ```
 
@@ -73,18 +72,6 @@ It ensures that a group of owners can collectively manage funds and approve tran
 
 ---
 
-## 📄 Testing
-
-Run tests to ensure the functionality is correct:
-
-```bash
-npx hardhat test
-```
-
-Tests are located in the `/test` folder and cover all major functionalities.
-
----
-
 ## 📂 File Structure
 
 - `contracts/`: Solidity source files.
@@ -98,14 +85,6 @@ Tests are located in the `/test` folder and cover all major functionalities.
 - [GitHub Repository](https://github.com/your-repository-link)
 - [Hardhat Documentation](https://hardhat.org/docs)
 - [Solidity Documentation](https://docs.soliditylang.org/)
-
----
-
-## 💡 Ideas for Improvement
-
-1. Implement a UI for easy interaction.
-2. Add support for more ERC standards (e.g., ERC721).
-3. Enable multi-network deployments (e.g., Polygon, Binance Smart Chain).
 
 ---
 
