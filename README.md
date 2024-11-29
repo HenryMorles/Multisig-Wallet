@@ -82,7 +82,7 @@ It ensures that a group of owners can collectively manage funds and approve tran
 
 ## 🌐 Links
 
-- [GitHub Repository](https://github.com/your-repository-link)
+- [GitHub Repository](https://github.com/HenryMorles/Multisig-Wallet/)
 - [Hardhat Documentation](https://hardhat.org/docs)
 - [Solidity Documentation](https://docs.soliditylang.org/)
 
