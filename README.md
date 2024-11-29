@@ -30,7 +30,7 @@ It ensures that a group of owners can collectively manage funds and approve tran
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HenryMorles/Multisig-Wallet/
+   git clone https://github.com/HenryMorles/Multisig-Wallet
    cd Multisig_Wallet
    ```
 
@@ -82,7 +82,7 @@ It ensures that a group of owners can collectively manage funds and approve tran
 
 ## 🌐 Links
 
-- [GitHub Repository](https://github.com/HenryMorles/Multisig-Wallet/)
+- [GitHub Repository](https://github.com/HenryMorles/Multisig-Wallet)
 - [Hardhat Documentation](https://hardhat.org/docs)
 - [Solidity Documentation](https://docs.soliditylang.org/)
 
